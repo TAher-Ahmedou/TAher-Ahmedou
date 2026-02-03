@@ -17,4 +17,4 @@
 
 ## 📫 Contact
 - GitHub: @TAher-Ahmedou
-- LinkedIn: (à ajouter)
+- LinkedIn: Taher Ahmedou

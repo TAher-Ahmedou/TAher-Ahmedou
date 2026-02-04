@@ -120,7 +120,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAher-Ahmedou&show_icons=true&theme=tokyonight"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TAher-Ahmedou&theme=tokyonight"/>
+  <!-- GitHub Stats -->
+[![Taher's GitHub stats](https://github-readme-stats.vercel.app/api?username=TAher-Ahmedou&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues)](https://github.com/TAher-Ahmedou)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TAher-Ahmedou&theme=tokyonight)](https://github.com/TAher-Ahmedou)
+
 </p>

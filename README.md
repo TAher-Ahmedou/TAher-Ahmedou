@@ -115,9 +115,9 @@
 
 ## 🔗 Connect with me
 <p align="center">
-  <a href="taher45ahmedou@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png"/>
-  </a>
+  <a href="mailto:taher45ahmedou@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
+</a>
   <a href="https://www.linkedin.com/in/taher-ahmedou-39ba642bb/">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>

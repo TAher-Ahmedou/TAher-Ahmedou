@@ -7,6 +7,8 @@
 ### 💻 Backend & Full-Stack Developer  
 ### 🚀 Spring Boot | React | Docker | OCR & AI
 
+> Passionate about building scalable backend systems and smart OCR-powered applications.
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=TAher-Ahmedou&style=for-the-badge&color=blue"/>
@@ -17,15 +19,6 @@
   <img src="https://img.shields.io/badge/Check%20my%20repositories-00ff88?style=for-the-badge"/>
 </a>
 
-<br/><br/>
-
-<!-- <a href="#">
-  <img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a> -->
-
 </div>
 
 ---
@@ -33,9 +26,15 @@
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="mailto:taher45ahmedou@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
-  <a href="https://www.linkedin.com/in/taher-ahmedou-39ba642bb/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <a href="https://github.com/TAher-Ahmedou"><img src="https://img.icons8.com/material-outlined/48/github.png"/></a>
+  <a href="mailto:taher45ahmedou@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/taher-ahmedou-39ba642bb/">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+  <a href="https://github.com/TAher-Ahmedou">
+    <img src="https://img.icons8.com/material-outlined/48/github.png"/>
+  </a>
 </p>
 
 ---
@@ -55,3 +54,12 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAher-Ahmedou&theme=tokyonight"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🧠 **NeurOCR** — OCR + AI for structured data extraction  
+- 🏢 **Visitor Management System** — QR Code + OCR + Spring Boot  
+- 📄 **Document Management Platform** — Secure document handling & search
+

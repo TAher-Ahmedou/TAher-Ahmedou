@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%"/>
+<img src="https://avatars.githubusercontent.com/TAher-Ahmedou" width="150" style="border-radius:50%"/>
 
 # Hi, I'm **Taher Ahmedou** 👋
 
@@ -19,12 +19,12 @@
 
 <br/><br/>
 
-<a href="#">
+<!-- <a href="#">
   <img src="https://img.shields.io/badge/My%20CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</a> -->
 
 </div>
 
@@ -33,8 +33,8 @@
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="mailto:taher45ahmedou@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png"/></a>
+  <a href="https://www.linkedin.com/in/taher-ahmedou-39ba642bb/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="https://github.com/TAher-Ahmedou"><img src="https://img.icons8.com/material-outlined/48/github.png"/></a>
 </p>
 

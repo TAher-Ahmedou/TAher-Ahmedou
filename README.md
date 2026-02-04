@@ -12,7 +12,7 @@
   
   <br/>
   
-<p align="left">
+<p align="center">
   <a href="https://www.canva.com/design/DAGdWFSYNZ4/lNRNtCAngTXzqDBgv8eCyw/view?utm_content=DAGdWFSYNZ4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0dcb5b6c73" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-00441b?style=for-the-badge&logo=googledrive&logoColor=white" alt="My CV">
   </a>

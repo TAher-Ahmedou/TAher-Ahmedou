@@ -1,42 +1,31 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/TAher-Ahmedou" width="150" style="border-radius:50%"/>
-  
-  # Hi, I'm **Taher Ahmedou** 👋
-  
-  ### 💻 Backend & Full-Stack Developer  
-  ### 🔐 Master Student in Cyber Security — SupNum (Mauritania)
-  
-  🚀 Spring Boot | React | Docker | OCR | AI | Cyber Security
-  
-  > Passionate about backend systems, OCR-powered applications, and secure software design.
-  
-  <br/>
-  
-<p align="center">
-  <a href="https://www.canva.com/design/DAGdWFSYNZ4/lNRNtCAngTXzqDBgv8eCyw/view?utm_content=DAGdWFSYNZ4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0dcb5b6c73" target="_blank">
-    <img src="https://img.shields.io/badge/MY%20CV-00441b?style=for-the-badge&logo=googledrive&logoColor=white" alt="My CV">
-  </a>&nbsp;
+  <img src="https://avatars.githubusercontent.com/TAher-Ahmedou" width="150" style="border-radius:50%"/>
   
-  <a href="https://github.com/TAher-Ahmedou?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/MY%20PORTFOLIO-004aad?style=for-the-badge&logo=linktree&logoColor=white" alt="My Portfolio">
-  </a>&nbsp;
-
-  <a href="https://gitlab.com/TAher-Ahmedou" target="_blank">
-  <img src="https://img.shields.io/badge/MY%20GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="My GitLab">
-</a>
-</p>
-<br/>
-
-<a href="https://github.com/TAher-Ahmedou?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20My%20Repositories-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+  # Hi, I'm **Taher Ahmedou** 👋
+  
+  ### 💻 Backend & Full-Stack Developer  
+  ### 🔐 Master Student in Cyber Security — SupNum (Mauritania)
+  
+  🚀 Spring Boot | React | Docker | OCR | AI | Cyber Security
+  
+  > Passionate about backend systems, OCR-powered applications, and secure software design.
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=TAher-Ahmedou&style=for-the-badge&color=blue"/>
+  
+  <br/><br/>
+  
+  <a href="https://github.com/TAher-Ahmedou?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-00ff88?style=for-the-badge"/>
+  </a>
 </div>
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **Master in Cyber Security** — *SupNum Institute, Mauritania* (Current)  
+- 🎓 **Master in Cyber Security** — *SupNum Institute, Mauritania* (Current)  
 - 🎓 **Licence in Computer Science** — *SupNum Institute, Mauritania*
 
 ---
@@ -47,61 +36,61 @@
 
 #### **L1 — Semester 1 & 2**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,prestashop"/>
+  <img src="https://skillicons.dev/icons?i=html,css,prestashop"/>
 </p>
-- 🛒 **E-commerce Website** (S2) — PrestaShop  
-- 🌐 **Static Website** (S1) — HTML & CSS  
+- 🛒 **E-commerce Website** (S2) — PrestaShop  
+- 🌐 **Static Website** (S1) — HTML & CSS  
 
 ---
 
 #### **L2 — Semester 3 & 4**
 <p>
-  <img src="https://skillicons.dev/icons?i=php,oracle,git,java"/>
+  <img src="https://skillicons.dev/icons?i=php,oracle,git,java"/>
 </p>
-- 📩 **SMS Management System** (S3)  
-  - PHP (CodeIgniter), Oracle Database, Git Bash  
-- 👥 **Client Management Application** (S4)  
-  - Java EE (JEE), Apache Tomcat Server  
+- 📩 **SMS Management System** (S3)  
+  - PHP (CodeIgniter), Oracle Database, Git Bash  
+- 👥 **Client Management Application** (S4)  
+  - Java EE (JEE), Apache Tomcat Server  
 - 🎨 **Adobe Suite Training** (S4) — Startup Cube
 
 ---
 
 #### **L3 — Semester 5 & 6**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,kafka"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,kafka"/>
 </p>
 
 ##### Semester 5
-- 📄 **OCR + AI Application**  
-  - Spring Boot & React  
-  - OCR text extraction  
-  - Text summarization & semantic analysis  
-  - Elasticsearch & Kafka  
-- 📊 **Big Data Exercises**  
-  - Apache Kafka, NoSQL (MongoDB)  
-- 🎯 **Marketing Training** — Yamina Prod (S5)  
+- 📄 **OCR + AI Application**  
+  - Spring Boot & React  
+  - OCR text extraction  
+  - Text summarization & semantic analysis  
+  - Elasticsearch & Kafka  
+- 📊 **Big Data Exercises**  
+  - Apache Kafka, NoSQL (MongoDB)  
+- 🎯 **Marketing Training** — Yamina Prod (S5)  
 
 ##### Semester 6
-- 🚪 **Visitor Management System**  
-  - Spring Boot (Backend), React (Web), Mobile App  
-  - OCR-based visitor recognition  
-- 🖌 **Figma UI/UX Certificate** — Udemy (S6)  
+- 🚪 **Visitor Management System**  
+  - Spring Boot (Backend), React (Web), Mobile App  
+  - OCR-based visitor recognition  
+- 🖌 **Figma UI/UX Certificate** — Udemy (S6)  
 
 ---
 
 ## 🛠️ Technical Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,php,js,docker,kafka,mongodb,postgres,mysql,git,linux"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,php,js,docker,kafka,mongodb,postgres,mysql,git,linux"/>
 </p>
 
 ---
 
 ## 🔐 Cyber Security Interests
-- Secure Backend Development  
-- API Security  
-- Authentication & Authorization  
-- Network Security Fundamentals  
-- Ethical Hacking & CTFs (Learning)  
+- Secure Backend Development  
+- API Security  
+- Authentication & Authorization  
+- Network Security Fundamentals  
+- Ethical Hacking & CTFs (Learning)  
 
 ---
 
@@ -116,13 +105,22 @@
 
 ## 🔗 Connect with me
 <p align="center">
-  <a href="mailto:taher45ahmedou@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/taher-ahmedou-39ba642bb/">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
-  </a>
-  <a href="https://github.com/TAher-Ahmedou">
-    <img src="https://img.icons8.com/material-outlined/48/github.png"/>
-  </a>
+  <a href="mailto:taher45ahmedou@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/taher-ahmedou-39ba642bb/">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+  <a href="https://github.com/TAher-Ahmedou">
+    <img src="https://img.icons8.com/material-outlined/48/github.png"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TAher-Ahmedou&show_icons=true&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAher-Ahmedou&theme=tokyonight"/>
 </p>

@@ -3,11 +3,13 @@
 <img src="https://avatars.githubusercontent.com/TAher-Ahmedou" width="150" style="border-radius:50%"/>
 
 # Hi, I'm **Taher Ahmedou** 👋
-### Master’s Student in Cybersecurity 🔐
-### 💻 Backend & Full-Stack Developer  
-### 🚀 Spring Boot | React | Docker | OCR & AI
 
-> Passionate about building scalable backend systems and smart OCR-powered applications.
+### 💻 Backend & Full-Stack Developer  
+### 🔐 Master Student in Cyber Security — SupNum (Mauritania)
+
+🚀 Spring Boot | React | Docker | OCR | AI | Cyber Security
+
+> Passionate about backend systems, OCR-powered applications, and secure software design.
 
 <br/>
 
@@ -16,10 +18,86 @@
 <br/><br/>
 
 <a href="https://github.com/TAher-Ahmedou?tab=repositories">
-  <img src="https://img.shields.io/badge/Check%20my%20repositories-00ff88?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/View%20My%20Repositories-00ff88?style=for-the-badge"/>
 </a>
 
 </div>
+
+---
+
+## 🎓 Education
+
+- 🎓 **Master in Cyber Security** — *SupNum Institute, Mauritania* (Current)
+- 🎓 **Licence in Computer Science** — *SupNum Institute, Mauritania*
+
+---
+
+## 🧠 Academic Projects (Licence)
+
+### 📘 L1 — Semester 1 & 2
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,prestashop"/>
+</p>
+
+- 🛒 **E-commerce Website** using **PrestaShop**  
+- 🌐 **Static Website** using **HTML & CSS**
+
+---
+
+### 📗 L2 — Semester 3 & 4
+<p>
+  <img src="https://skillicons.dev/icons?i=php,oracle,git,java"/>
+</p>
+
+- 📩 **SMS Management System**  
+  - PHP (CodeIgniter)
+  - Oracle Database
+  - Git Bash  
+- 👥 **Client Management Application**
+  - Java EE (JEE)
+  - Apache Tomcat Server
+
+---
+
+### 📕 L3 — Semester 5 & 6
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,mongodb,kafka"/>
+</p>
+
+#### 🧠 Semester 5
+- 📄 **OCR + AI Application**
+  - Spring Boot & React
+  - OCR text extraction
+  - Text summarization & semantic analysis
+  - Elasticsearch & Kafka
+- 📊 **Big Data Exercises**
+  - Apache Kafka
+  - NoSQL (MongoDB)
+
+#### 🏢 Semester 6
+- 🚪 **Visitor Management System**
+  - Spring Boot (Backend)
+  - React (Web)
+  - Mobile Application
+  - OCR-based visitor recognition
+
+---
+
+## 🛠️ Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,php,js,docker,kafka,mongodb,postgres,mysql,git,linux"/>
+</p>
+
+---
+
+## 🔐 Cyber Security Interests
+
+- Secure Backend Development
+- API Security
+- Authentication & Authorization
+- Network Security Fundamentals
+- Ethical Hacking & CTFs (Learning)
 
 ---
 
@@ -39,14 +117,6 @@
 
 ---
 
-
-
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,docker,postgres,mysql,git,linux" />
-</p> -->
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -54,12 +124,3 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAher-Ahmedou&theme=tokyonight"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-- 🧠 **NeurOCR** — OCR + AI for structured data extraction  
-- 🏢 **Visitor Management System** — QR Code + OCR + Spring Boot  
-- 📄 **Document Management Platform** — Secure document handling & search
-

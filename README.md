@@ -12,15 +12,20 @@
   
   <br/>
   
-[![MyCV](https://img.shields.io/badge/MyCV-blue?style=for-the-badge)](https://www.canva.com/design/DAGdWFSYNZ4/lNRNtCAngTXzqDBgv8eCyw/view?utm_content=DAGdWFSYNZ4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0dcb5b6c73)
-
-
-  
-  <br/><br/>
-  
-  <a href="https://github.com/TAher-Ahmedou?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-00ff88?style=for-the-badge"/>
+<p align="left">
+  <a href="https://www.canva.com/design/DAGdWFSYNZ4/lNRNtCAngTXzqDBgv8eCyw/view?utm_content=DAGdWFSYNZ4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0dcb5b6c73" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-00441b?style=for-the-badge&logo=googledrive&logoColor=white" alt="My CV">
   </a>
+  <a href="https://github.com/TAher-Ahmedou?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-004aad?style=for-the-badge&logo=linktree&logoColor=white" alt="My Portfolio">
+  </a>
+</p>
+
+<br/>
+
+<a href="https://github.com/TAher-Ahmedou?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20My%20Repositories-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 </div>
 
 ---

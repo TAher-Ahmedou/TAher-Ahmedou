@@ -17,15 +17,19 @@
     <img src="https://img.shields.io/badge/My%20CV-00441b?style=for-the-badge&logo=googledrive&logoColor=white" alt="My CV">
   </a>&nbsp;
   <a href="https://github.com/TAher-Ahmedou?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-004aad?style=for-the-badge&logo=linktree&logoColor=white" alt="My Portfolio">
+    <img src="https://img.shields.io/badge/GitHub%20Portfolio-004aad?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>&nbsp;
+  <a href="https://gitlab.com/TAher-Ahmedou" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab%20Projects-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
   </a>
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TAher-Ahmedou&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170px" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAher-Ahmedou&theme=tokyonight&cache_seconds=1800" height="170px" alt="Streak" />
+</p>
 
-<a href="https://github.com/TAher-Ahmedou?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20My%20Repositories-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<br/>
 </div>
 
 ---

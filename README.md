@@ -13,17 +13,17 @@
   <br/>
   
 <p align="center">
-  <a href="https://www.canva.com/design/DAGdWFSYNZ4/lNRNtCAngTXzqDBgv8eCyw/view?utm_content=DAGdWFSYNZ4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0dcb5b6c73" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-00441b?style=for-the-badge&logo=googledrive&logoColor=white" alt="My CV">
-  </a>&nbsp;
-  <a href="https://github.com/TAher-Ahmedou?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-004aad?style=for-the-badge&logo=linktree&logoColor=white" alt="My Portfolio">
-  </a>
-</p>
+  <a href="https://www.canva.com/design/DAGdWFSYNZ4/lNRNtCAngTXzqDBgv8eCyw/view?utm_content=DAGdWFSYNZ4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0dcb5b6c73" target="_blank">
+    <img src="https://img.shields.io/badge/MY%20CV-00441b?style=for-the-badge&logo=googledrive&logoColor=white" alt="My CV">
+  </a>&nbsp;
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAher-Ahmedou&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAher-Ahmedou&theme=tokyonight" height="170px"/>
+  <a href="https://github.com/TAher-Ahmedou?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/MY%20PORTFOLIO-004aad?style=for-the-badge&logo=linktree&logoColor=white" alt="My Portfolio">
+  </a>&nbsp;
+
+  <a href="https://gitlab.com/TAher-Ahmedou" target="_blank">
+    <img src="https://img.shields.io/badge/MY%20GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="My GitLab">
+  </a>
 </p>
 <br/>
 

@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/MY%20PORTFOLIO-004aad?style=for-the-badge&logo=linktree&logoColor=white" alt="My Portfolio">
   </a>&nbsp;
 
-  <a href="https://gitlab.com/TAher-Ahmedou" target="_blank">
+  <a href="[https://gitlab.com/TAher-Ahmedou](https://gitlab.com/dashboard/projects)" target="_blank">
     <img src="https://img.shields.io/badge/MY%20GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="My GitLab">
   </a>
 </p>

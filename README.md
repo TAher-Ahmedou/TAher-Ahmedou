@@ -12,7 +12,8 @@
   
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=TAher-Ahmedou&style=for-the-badge&color=blue"/>
+  [![CV](https://img.shields.io/badge/Mon_CV-Canva-blue?style=for-the-badge)](https://www.canva.com/design/DAGdWFSYNZ4/lNRNtCAngTXzqDBgv8eCyw/view?utm_content=DAGdWFSYNZ4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0dcb5b6c73)
+
   
   <br/><br/>
   

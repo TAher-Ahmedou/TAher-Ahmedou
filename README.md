@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/TAher-Ahmedou" width="150" style="border-radius:50%"/>
 
 # Hi, I'm **Taher Ahmedou** 👋
-
+### Master’s Student in Cybersecurity 🔐
 ### 💻 Backend & Full-Stack Developer  
 ### 🚀 Spring Boot | React | Docker | OCR & AI
 
@@ -39,11 +39,11 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,docker,postgres,mysql,git,linux" />
-</p>
+</p> -->
 
 ---
 

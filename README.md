@@ -12,7 +12,7 @@
   
   <br/>
   
-[![MyCV](https://img.shields.io/badge/MyCV-Canva-blue?style=for-the-badge)](https://www.canva.com/design/DAGdWFSYNZ4/lNRNtCAngTXzqDBgv8eCyw/view?utm_content=DAGdWFSYNZ4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0dcb5b6c73)
+[![MyCV](https://img.shields.io/badge/MyCV-blue?style=for-the-badge)](https://www.canva.com/design/DAGdWFSYNZ4/lNRNtCAngTXzqDBgv8eCyw/view?utm_content=DAGdWFSYNZ4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0dcb5b6c73)
 
 
   

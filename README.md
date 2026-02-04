@@ -127,9 +127,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TAher-Ahmedou&show_icons=true&theme=tokyonight"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TAher-Ahmedou&theme=tokyonight"/>
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=TAher-Ahmedou&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAher-Ahmedou&theme=tokyonight" alt="GitHub Streak" />
 </p>

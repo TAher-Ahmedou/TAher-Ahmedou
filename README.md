@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/MY%20GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="My GitLab">
   </a>
 
-  <a href="https://taher-portfolio-nine.vercel.app/" target="_blank">
+  <a href="[https://taher-portfolio-nine.vercel.app/](https://taher-portfolio-nine.vercel.app)" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-004aad?style=for-the-badge&logo=linktree&logoColor=white" alt="My Portfolio">
   </a>
 </p>
